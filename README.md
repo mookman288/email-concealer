@@ -29,7 +29,7 @@ Full License Here: http://creativecommons.org/licenses/by-nd/3.0/legalcode
 
 **Under the Following Conditions:**
 * Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). 
-* No Derivative Works — You may not alter, transform, or build upon this work. 
+* No Derivative Works — You may not alter, transform, or build upon this work. **WAIVED**
 
 **With the Understanding that:**
 * Any of the above conditions can be waived if you get permission from the copyright holder. 
