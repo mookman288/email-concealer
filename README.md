@@ -38,4 +38,4 @@ Full License Here: http://creativecommons.org/licenses/by-nd/3.0/legalcode
   * Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
   * The author's moral rights;
   * Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights. 
-* Notice— For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page. 
+* Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page. 
