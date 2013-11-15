@@ -4,16 +4,38 @@
 
 ### Preface
 
-The *Email Concealer* is designed to implement simple
-obfuscation techniques to allow the mailto link, in 
-conjunction with JavaScript, for peace of mind against 
-pesky email harvesting bots.
+The *Email Concealer* is designed to implement simple obfuscation techniques 
+to allow the mailto link, in conjunction with JavaScript, for peace of mind 
+against pesky email harvesting bots.
 
+### Technologies
+
+There are two methods included to implement email obfuscation:
+
+#### JavaScript
+
+JavaScript obfuscation uses a mixture of encoding and pieced email parts to 
+inject an email address into a specific element. This method of obfuscation 
+will prevent dumb email harvesters from crawling a website when JavaScript 
+is disabled. When JavaScript is enabled, a timer is leveraged to subvert 
+harvesters which crawl for immediate rendered content. While intelligent 
+harvesting systems will delve into the JavaScript files themselves, the use 
+of encoded characters is designed to subvert their attempts. 
+
+For added security, a packed and minified version has been included which 
+uses base algorithms to obfuscate the code itself, making it more difficult 
+for analysis of the technology. 
+
+#### PHP
+
+For instances where JavaScript cannot, or should not be used, an alternative 
+method to simulate a mailto link can be used with a back-end technology, like 
+PHP. This method uses the header to redirect the user as if they had clicked a 
+mailto link. 
 
 ### Demonstration
 
-A demonstration is included. Please allow 1.5 seconds for the 
-email concealer to replace the mailto link. 
+A demonstration is included showcasing all three methods included.
 
 ### License
 
